@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516659389686",
+    "project_id": "actividad-3-c5825",
+    "storage_bucket": "actividad-3-c5825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516659389686:android:17b519e98086c5e2bd38d7",
+        "android_client_info": {
+          "package_name": "com.example.todo_grupo5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTjFb9_3li1ufnzUrDhYyE7lN2Z8ttK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
